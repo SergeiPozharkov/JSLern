@@ -1,2 +1,3 @@
 # JSLern
-Repository for lerning JavaScript
+
+Repository for lerning JavaScript and CSS.
