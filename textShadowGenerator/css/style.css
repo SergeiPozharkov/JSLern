@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    background-color: grey;
+}
+
+input[type='range'] {
+    display: table;
+    width: 100%;
+}
+
+input[type='color'] {
+    border: none;
+    background-color: transparent;
+    width: 55px;
+    height: 55px;
+    padding: 0;
+    margin-bottom: 15px;
+}
+
+input[type='color']:hover {
+    cursor: pointer;
+}
+
+label {
+    display: block;
+}
+
+textarea {
+    width: 100%;
+    display: block;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.card {
+    height: 100%;
+}
